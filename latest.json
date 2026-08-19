@@ -1,1 +1,1 @@
-{"version": "1.0.7", "notes": "新增功能：更新下载时显示下载进度条（百分比+已下载大小），让用户直观看到下载进度，不再盲目等待", "asset_name": "siemens-quote-assistant-setup-v1.0.7.exe"}
+{"version": "1.0.8", "notes": "修复数据库打开失败问题：增强数据库连接的错误处理和诊断信息；增加数据库缺失时自动重建机制，确保程序稳定运行", "asset_name": "siemens-quote-assistant-setup-v1.0.8.exe"}

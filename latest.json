@@ -1,1 +1,1 @@
-{"version": "1.0.5", "notes": "新增功能：安装完成后自动清理 Windows 图标缓存，确保桌面快捷方式图标自动更新为新图标；同步优化系统托盘图标", "asset_name": "siemens-quote-assistant-setup-v1.0.5.exe"}
+{"version": "1.0.6", "notes": "优化：彻底解决图标更新问题 - 移除安装时刷新图标缓存（避免影响系统资源管理器），改为软件首次启动时自动检测版本变化并使用 Windows API 无感刷新图标缓存，完全不影响用户系统", "asset_name": "siemens-quote-assistant-setup-v1.0.6.exe"}

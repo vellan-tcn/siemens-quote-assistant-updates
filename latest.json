@@ -1,1 +1,1 @@
-{"version": "1.0.8", "notes": "修复数据库打开失败问题：增强数据库连接的错误处理和诊断信息；增加数据库缺失时自动重建机制，确保程序稳定运行", "asset_name": "siemens-quote-assistant-setup-v1.0.8.exe"}
+{"version": "1.0.9", "notes": "修复环境变量异常导致路径错误问题：安全获取 LOCALAPPDATA 环境变量，增加有效性校验（长度>10、包含冒号），异常时使用 exe 同级目录作为后备，避免路径损坏导致程序无法启动", "asset_name": "siemens-quote-assistant-setup-v1.0.9.exe"}

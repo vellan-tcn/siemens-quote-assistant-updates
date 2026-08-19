@@ -1,1 +1,1 @@
-{"version": "1.0.12", "notes": "修复自动更新：点击更新后提示安装中却没有任何反应（安装程序被本程序的 taskkill 进程树连带杀死），以及静默升级后程序不会自动重启；修复更新弹窗出现两个「下载中…」按钮；提权被拒绝等失败现在会明确提示原因。", "asset_name": "siemens-quote-assistant-setup-v1.0.12.exe"}
+{"version": "1.0.13", "notes": "修复登录页品牌 LOGO 换图后界面仍显示旧图的问题（WebView2 磁盘缓存长期命中 /logo.png）。静态资源引用改为带版本号，覆盖安装后即可看到最新 LOGO。", "asset_name": "siemens-quote-assistant-setup-v1.0.13.exe"}

@@ -1,1 +1,1 @@
-{"version": "1.0.6", "notes": "优化：彻底解决图标更新问题 - 移除安装时刷新图标缓存（避免影响系统资源管理器），改为软件首次启动时自动检测版本变化并使用 Windows API 无感刷新图标缓存，完全不影响用户系统", "asset_name": "siemens-quote-assistant-setup-v1.0.6.exe"}
+{"version": "1.0.7", "notes": "新增功能：更新下载时显示下载进度条（百分比+已下载大小），让用户直观看到下载进度，不再盲目等待", "asset_name": "siemens-quote-assistant-setup-v1.0.7.exe"}

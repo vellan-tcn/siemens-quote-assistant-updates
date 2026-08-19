@@ -1,1 +1,1 @@
-{"version": "1.0.3", "notes": "全新科技感图标：桌面快捷方式、系统托盘、安装器与登录页 Logo 统一换新", "asset_name": "siemens-quote-assistant-setup-v1.0.3.exe"}
+{"version": "1.0.5", "notes": "新增功能：安装完成后自动清理 Windows 图标缓存，确保桌面快捷方式图标自动更新为新图标；同步优化系统托盘图标", "asset_name": "siemens-quote-assistant-setup-v1.0.5.exe"}
